@@ -23,7 +23,7 @@ A lightweight JavaScript library for playing sound effects in online games. Get 
 2. Include `SoundBits.js` in your project.
 
 ```html
-<script src="path_to_SoundBits.js"></script>
+<script src="path/to/SoundBits.js"></script>
 ```
 
 ## Usage

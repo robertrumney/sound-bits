@@ -13,9 +13,9 @@ A lightweight JavaScript library for playing sound effects in online games. Get 
 
 ## Features
 
-- :cd: **Load & Play**: Easily load and play sound effects.
-- :repeat: **Loop Support**: Loop your sound effects seamlessly.
-- :mute: **Stop Playback**: Pause and reset sound instances.
+- **Load & Play**: Easily load and play sound effects.
+- **Loop Support**: Loop your sound effects seamlessly.
+- **Stop Playback**: Pause and reset sound instances.
 
 ## Installation
 

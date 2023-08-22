@@ -1,4 +1,4 @@
-# SoundBits :notes:
+# SoundBits
 
 A lightweight JavaScript library for playing sound effects in online games. Get rid of third-party complexities and embrace the simplicity of SoundBits!
 

@@ -22,7 +22,9 @@ A lightweight JavaScript library for playing sound effects in online games. Get 
 1. Clone this repository or download the `SoundBits.js` file.
 2. Include `SoundBits.js` in your project.
 
-"<script src="path_to_SoundBits.js"></script>"
+```html
+<script src="path_to_SoundBits.js"></script>
+```
 
 ## Usage
 

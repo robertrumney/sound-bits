@@ -28,15 +28,21 @@ A lightweight JavaScript library for playing sound effects in online games. Get 
 
 ### Loading a sound:
 
-```javascript SoundBits.load('shot', 'path_to_your_sound_file.mp3');```
+```javascript 
+SoundBits.load('shot', 'path_to_your_sound_file.mp3');
+```
 
 ### Playing a sound:
 
-```javascript const shotSound = SoundBits.play('shot');```
+```javascript
+const shotSound = SoundBits.play('shot');
+```
 
 ### Stopping a sound:
 
-```javascript SoundBits.stop(shotSound);```
+```javascript
+SoundBits.stop(shotSound);
+```
 
 ## Enhancements
 
